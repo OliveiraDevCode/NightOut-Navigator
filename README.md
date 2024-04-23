@@ -14,7 +14,7 @@ NightOut Navigator is an innovative application developed during the 24-hour Hac
 - **Backend:** Java, Spring, Maven, Tomcat
 - **Frontend:** JavaScript with MVC architecture for Single Page Application
 - **API Integration:** Utilized Google Maps API, social media share buttons API, and a cocktail API
-- **Homepage Design:** Implemented using Tree technology
+- **Homepage Design:** Implemented using Three technology
 - **Styling:** CSS Vanilla
 
 ## How to Use
