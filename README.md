@@ -19,7 +19,7 @@ NightOut Navigator is an innovative application developed during the 24-hour Hac
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/ruicosta77/nightout-navigator.git`
+1. Clone the repository: `git clone https://github.com/OliveiraDevCode/nightout-navigator.git`
 2. Navigate to the project directory: `cd nightout-navigator`
 3. Run the application locally:
    - Backend:
